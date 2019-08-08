@@ -1,0 +1,1 @@
+{"version":3,"sources":["UserList.css"],"names":[],"mappings":"AAAA,UACE,YAAe,CACf,kBACE,kBAAqB,CACrB,yBACE,cAAiB,CACrB,mBACE,kBAAqB","file":"14.482a9286.chunk.css","sourcesContent":[".UserList {\n  padding: 2rem; }\n  .UserList .header {\n    margin-bottom: 2rem; }\n    .UserList .header .title {\n      font-size: 2rem; }\n  .UserList .toolbar {\n    margin-bottom: 1rem; }\n"]}
